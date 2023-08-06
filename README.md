@@ -3,6 +3,13 @@
 
 ## Toxic Comment Classification Flask App using LSTM Deep Learning
 
+
+
+<img width="487" alt="image" src="https://github.com/RajeevPrakashAD1/flask_app_toxic_commet/assets/80143190/fb1c2c70-4862-4c24-842c-040081f163fd">
+<img width="477" alt="image" src="https://github.com/RajeevPrakashAD1/flask_app_toxic_commet/assets/80143190/c62ee23a-7c7f-43cb-9b44-168c0df82c3d">
+<img width="464" alt="image" src="https://github.com/RajeevPrakashAD1/flask_app_toxic_commet/assets/80143190/4f378ea0-0db4-4d6c-915e-6bcabb99c8fb">
+
+
 ## Introduction:
 The Toxic Comment Classification Flask App is a web application that utilizes a deep learning model built using LSTM (Long Short-Term Memory) to classify toxic comments. It provides a user-friendly interface where users can input a comment, and the app will predict whether the comment contains toxic content.
 
